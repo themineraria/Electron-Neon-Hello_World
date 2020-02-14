@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Electron, meet Neon to say hello!</title>
+  </head>
+  <body>
+    <script>
+      try {
+        console.log(require('./neon'))
+        document.write(`<h1>${require('./neon').helloWorld()}</h1>`);
+      } catch (e) {
+        document.write(`<pre>${e.stack}</pre>`);
+      }
+    </script>
+
+    <p>If everything works fine, the title above as been printed by Neon (Rust)! &#x1f60a;</p>
+  </body>
+</html>

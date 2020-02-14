@@ -1,0 +1,16 @@
+{
+  "name": "neon-hello",
+  "version": "1.0.0",
+  "description": "A hello world demo of Neon",
+  "main": "lib/index.js",
+  "author": "Cyp",
+  "license": "MIT",
+  "dependencies": {
+    "neon-cli": "^0.3.3"
+  },
+  "scripts": {
+    "build": "neon build --release",
+    "install": "npm run build",
+    "test": "npm run build"
+  }
+}

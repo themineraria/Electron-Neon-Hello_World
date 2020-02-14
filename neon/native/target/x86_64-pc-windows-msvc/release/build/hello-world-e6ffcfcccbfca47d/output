@@ -1,0 +1,7 @@
+cargo:rustc-link-search=C:\\Users\\cypis\\.electron-gyp\\8.0.0\Release
+cargo:rustc-link-search=native=C:\\Users\\cypis\\.electron-gyp\\8.0.0\x64
+cargo:rustc-link-lib=node
+cargo:rerun-if-env-changed=npm_config_runtime
+cargo:rustc-cdylib-link-arg=win_delay_load_hook.obj
+cargo:rustc-cdylib-link-arg=delayimp.lib
+cargo:rustc-cdylib-link-arg=/DELAYLOAD:node.exe

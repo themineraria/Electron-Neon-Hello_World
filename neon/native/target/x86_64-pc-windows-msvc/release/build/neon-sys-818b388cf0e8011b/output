@@ -1,0 +1,47 @@
+'Skipping node-gyp installation as part of npm install.'
+added 96 packages from 70 contributors and audited 184 packages in 4.108s
+found 4 vulnerabilities (1 moderate, 3 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
+cargo:node_arch=x64
+cargo:node_root_dir=C:\\Users\\cypis\\.electron-gyp\\8.0.0
+cargo:node_lib_file=C:\\\\Users\\\\cypis\\\\.electron-gyp\\\\8.0.0\\\\<(target_arch)\\\\node.lib
+
+> @ build-release C:\Users\cypis\Desktop\Rust+Neon+Electron\test2\neon\native\target\x86_64-pc-windows-msvc\release\build\neon-sys-818b388cf0e8011b\out\native
+> node-gyp build
+
+
+C:\Users\cypis\Desktop\Rust+Neon+Electron\test2\neon\native\target\x86_64-pc-windows-msvc\release\build\neon-sys-818b388cf0e8011b\out\native>if not defined npm_config_node_gyp (node "D:\nodejs\node_modules\npm\node_modules\npm-lifecycle\node-gyp-bin\\..\..\node_modules\node-gyp\bin\node-gyp.js" build )  else (node "D:\nodejs\node_modules\npm\node_modules\node-gyp\bin\node-gyp.js" build ) 
+Les projets sont g‚n‚r‚s individuellement dans cette solution. Pour activer la g‚n‚ration en parallŠle, ajoutez le commutateur "/m".
+  neon.cc
+  win_delay_load_hook.cc
+c:\users\cypis\.electron-gyp\8.0.0\include\node\v8.h(8924): warning C4996: 'v8::MicrotasksCompletedCallback': Use *WithData version. (compilation du fichier source ..\src\neon.cc) [C:\Users\cypis\Desktop\Rust+Neon+Electron\test2\neon\native\target\x86_64-pc-windows-msvc\release\build\neon-sys-818b388cf0e8011b\out\native\build\neon.vcxproj]
+  c:\users\cypis\.electron-gyp\8.0.0\include\node\v8.h(7239): note: voir la d‚claration de 'v8::MicrotasksCompletedCallback' (compilation du fichier source ..\src\neon.cc)
+c:\users\cypis\.electron-gyp\8.0.0\include\node\v8.h(8932): warning C4996: 'v8::MicrotasksCompletedCallback': Use *WithData version. (compilation du fichier source ..\src\neon.cc) [C:\Users\cypis\Desktop\Rust+Neon+Electron\test2\neon\native\target\x86_64-pc-windows-msvc\release\build\neon-sys-818b388cf0e8011b\out\native\build\neon.vcxproj]
+  c:\users\cypis\.electron-gyp\8.0.0\include\node\v8.h(7239): note: voir la d‚claration de 'v8::MicrotasksCompletedCallback' (compilation du fichier source ..\src\neon.cc)
+c:\users\cypis\desktop\rust+neon+electron\test2\neon\native\target\x86_64-pc-windows-msvc\release\build\neon-sys-818b388cf0e8011b\out\native\src\neon_task.h(62): warning C4996: 'node::MakeCallback': a ‚t‚ d‚clar‚ d‚conseill‚ (compilation du fichier source ..\src\neon.cc) [C:\Users\cypis\Desktop\Rust+Neon+Electron\test2\neon\native\target\x86_64-pc-windows-msvc\release\build\neon-sys-818b388cf0e8011b\out\native\build\neon.vcxproj]
+  c:\users\cypis\.electron-gyp\8.0.0\include\node\node.h(174): note: voir la d‚claration de 'node::MakeCallback' (compilation du fichier source ..\src\neon.cc)
+c:\users\cypis\desktop\rust+neon+electron\test2\neon\native\target\x86_64-pc-windows-msvc\release\build\neon-sys-818b388cf0e8011b\out\native\src\neon.cc(216): warning C4996: 'v8::ArrayBuffer::GetContents': Use GetBackingStore. See http://crbug.com/v8/9908. [C:\Users\cypis\Desktop\Rust+Neon+Electron\test2\neon\native\target\x86_64-pc-windows-msvc\release\build\neon-sys-818b388cf0e8011b\out\native\build\neon.vcxproj]
+  c:\users\cypis\.electron-gyp\8.0.0\include\node\v8.h(5165): note: voir la d‚claration de 'v8::ArrayBuffer::GetContents'
+  LINK : /LTCG spécifié mais aucune génération de code requise ; supprimez /LTCG de la ligne de commande de l'édition de liens pour améliorer les performances de l'éditeur de liens
+  neon.vcxproj -> C:\Users\cypis\Desktop\Rust+Neon+Electron\test2\neon\native\target\x86_64-pc-windows-msvc\release\build\neon-sys-818b388cf0e8011b\out\native\build\Release\\neon.node
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+AR_x86_64-pc-windows-msvc = None
+AR_x86_64_pc_windows_msvc = None
+HOST_AR = None
+AR = None
+running: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\BuildTools\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\lib.exe" "-out:C:\\Users\\cypis\\Desktop\\Rust+Neon+Electron\\test2\\neon\\native\\target\\x86_64-pc-windows-msvc\\release\\build\\neon-sys-818b388cf0e8011b\\out\\libneon.a" "-nologo" "C:\\Users\\cypis\\Desktop\\Rust+Neon+Electron\\test2\\neon\\native\\target\\x86_64-pc-windows-msvc\\release\\build\\neon-sys-818b388cf0e8011b\\out\\native\\build\\Release\\obj\\neon\\neon.obj"
+exit code: 0
+CXX_x86_64-pc-windows-msvc = None
+CXX_x86_64_pc_windows_msvc = None
+HOST_CXX = None
+CXX = None
+cargo:rustc-link-lib=static=neon
+cargo:rustc-link-search=native=C:\Users\cypis\Desktop\Rust+Neon+Electron\test2\neon\native\target\x86_64-pc-windows-msvc\release\build\neon-sys-818b388cf0e8011b\out
+CXXSTDLIB_x86_64-pc-windows-msvc = None
+CXXSTDLIB_x86_64_pc_windows_msvc = None
+HOST_CXXSTDLIB = None
+CXXSTDLIB = None
+cargo:rerun-if-env-changed=npm_config_target
+cargo:rerun-if-env-changed=npm_config_arch
+cargo:rerun-if-env-changed=npm_config_target_arch

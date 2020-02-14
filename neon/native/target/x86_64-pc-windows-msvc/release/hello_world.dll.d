@@ -1,0 +1,1 @@
+C:\Users\cypis\Desktop\Rust+Neon+Electron\test2\neon\native\target\x86_64-pc-windows-msvc\release\hello_world.dll.lib: C:\Users\cypis\Desktop\Rust+Neon+Electron\test2\neon\native\build.rs C:\Users\cypis\Desktop\Rust+Neon+Electron\test2\neon\native\src\lib.rs

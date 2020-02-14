@@ -1,0 +1,12 @@
+C:\Users\cypis\Desktop\Rust+Neon+Electron\test2\neon\native\target\release\deps\cc-05276934df7816d1.rmeta: C:\Users\cypis\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\lib.rs C:\Users\cypis\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\registry.rs C:\Users\cypis\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\winapi.rs C:\Users\cypis\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\com.rs C:\Users\cypis\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\setup_config.rs C:\Users\cypis\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\windows_registry.rs
+
+C:\Users\cypis\Desktop\Rust+Neon+Electron\test2\neon\native\target\release\deps\libcc-05276934df7816d1.rlib: C:\Users\cypis\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\lib.rs C:\Users\cypis\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\registry.rs C:\Users\cypis\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\winapi.rs C:\Users\cypis\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\com.rs C:\Users\cypis\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\setup_config.rs C:\Users\cypis\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\windows_registry.rs
+
+C:\Users\cypis\Desktop\Rust+Neon+Electron\test2\neon\native\target\release\deps\cc-05276934df7816d1.d: C:\Users\cypis\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\lib.rs C:\Users\cypis\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\registry.rs C:\Users\cypis\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\winapi.rs C:\Users\cypis\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\com.rs C:\Users\cypis\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\setup_config.rs C:\Users\cypis\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\windows_registry.rs
+
+C:\Users\cypis\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\lib.rs:
+C:\Users\cypis\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\registry.rs:
+C:\Users\cypis\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\winapi.rs:
+C:\Users\cypis\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\com.rs:
+C:\Users\cypis\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\setup_config.rs:
+C:\Users\cypis\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\windows_registry.rs:
